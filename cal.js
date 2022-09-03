@@ -1,3 +1,3 @@
 function zoom() {
-  document.body.style.zoom = "115%";
+  document.body.style.zoom = "105%";
 }
