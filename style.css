@@ -4,14 +4,13 @@ background:#2196f3;
 
 .container-fluid {
    border: 1px skyblue;
-   
    top: 50%;
    left: 50%;
    width: 310px;
    box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.75);
    position: absolute;
    transform: translate(-50%,-50%);
-   height: 39rem;
+   height: auto;
    background:#2196f3;
    
 }
