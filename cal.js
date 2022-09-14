@@ -1,5 +1,5 @@
 function zoom() {
-  document.body.style.zoom = "105%";
+  document.body.style.zoom = "100%";
 }
 
 let btn = document.querySelector("#toggleAll")
