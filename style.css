@@ -86,7 +86,7 @@ background:#2196f3;
   visibility: hidden;
 }
 .switch input[type=checkbox]:checked + label {
-  background: green;
+  background: white;
 }
 .switch input[type=checkbox]:checked + label::after {
   left: calc(100% - 4px);
@@ -96,7 +96,7 @@ background:#2196f3;
   cursor: pointer;
   width: 48px;
   height: 24px;
-  background: grey;
+  background: yellow;
   display: block;
   border-radius: 24px;
   position: relative;
@@ -108,7 +108,7 @@ background:#2196f3;
   left: 4px;
   width: 16px;
   height: 16px;
-  background: red;
+  background: green;
   border-radius: 16px;
   transition: 0.3s;
 }
